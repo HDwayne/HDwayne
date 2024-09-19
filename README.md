@@ -1,13 +1,11 @@
 ### Hi there, I'm Dwayne Herzberg 👋
 
-I'm a 21-year-old computer science enthusiast actively working towards my Master's degree at Paul Sabatier University, with a specific focus on Embedded and Connected Systems.
-
 🌟 **About Me:**
-- 📚 Currently studying and exploring the fascinating world of computer science.
-- 💼 Working on two exciting projects:
-  1. **eBPF-MojitOS:** Integrating cutting-edge eBPF technology into MOJITO/S for advanced system monitoring and security enhancements.
-  2. **Management Application for a French Trade Union:** Developed using PostgreSQL, Vite, Vue.JS, Go, Redis, NGINX, and Docker. This application covers comprehensive membership management, internal structures, mandates, and more.
-  (Please note that the web app is a private project.)
+- 📚 I am currently in my final year of university studies.
+- 💼 Working on some personal projects:
+  1. **Solar Tracker:** Development of a connected solar tracking system in C on ESP32, integrating 3D modeling in SolidWorks, prototyping, and MQTT with Home Assistant integration. 
+  3. **HomeLab:** Always tinkering with my homelab, setting up and maintaining servers for both my needs and my family’s.
+  
 - 🌐 Check out my portfolio: [Dwayne Herzberg Portfolio](https://dwayneherzberg.com/fr)
 - 📫 Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/dwayne-herzberg/)
 - ✉️ Feel free to reach out: dwayneherzberg@gmail.com
